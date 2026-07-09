@@ -65,9 +65,13 @@ npm start
 
 ## Screenshots
 
-| Home | Shop | Cart | Checkout |
-|------|------|------|----------|
-| Categories & featured | Product list with search | Quantity controls | Order summary |
+| Home | Shop | Product Detail |
+|------|------|----------------|
+| ![Home](screenshots/home.png) | ![Shop](screenshots/shop.png) | ![Detail](screenshots/detail.png) |
+
+| Cart | Checkout | Settings |
+|------|----------|----------|
+| ![Cart](screenshots/cart.png) | ![Checkout](screenshots/checkout.png) | ![Settings](screenshots/settings.png) |
 
 ## Author
 
